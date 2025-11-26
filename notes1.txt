@@ -1,1 +1,3 @@
 2025-11-26: Created repo and added scheduler files.
+
+2025-11-26: Completed at least 10 commits for COSE341 assignment.
