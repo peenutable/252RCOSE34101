@@ -1,0 +1,6 @@
+TODO for this GitHub assignment:
+- [x] Create public repo 252RCOSE34101
+- [x] Copy linux scheduler files
+- [x] Connect local repo to GitHub
+- [x] Make at least 10 commits
+- [ ] Submit Google form with repo URL
