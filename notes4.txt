@@ -1,0 +1,6 @@
+notes4 - What I learned today:
+
+- How to create a local git repository.
+- How to connect it to a GitHub remote.
+- How to use git add / commit / push.
+- How to check the number of commits with 'git log --oneline'.
